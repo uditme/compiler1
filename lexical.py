@@ -1,5 +1,6 @@
 import re
 
+
 # ------------------ PHASE 1: Lexical Analysis ------------------ #
 def tokenize(code):
     token_specification = [
